@@ -1,2 +1,2 @@
-# StatisticalInference
+# Statistical Inference
 Coursera: Statistical Inference
